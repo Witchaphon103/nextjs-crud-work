@@ -42,7 +42,7 @@ export default function Home() {
 
   return (
     <main className="container mx-auto">
-      <h3>NextJS Crud</h3>
+      <h3>NextJS TODO Crud</h3>
       <hr className="my-3" />
       <button className="bg-green-500 p-3 text-white rounded">
         <Link href="/create">สร้างโพสต์</Link>
